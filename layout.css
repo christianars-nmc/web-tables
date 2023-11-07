@@ -1,0 +1,14 @@
+html {
+    width: 100%;
+ }
+ 
+ body {
+    width: 95%;
+    margin: 0px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1em;
+ }
+ 
+ h1 {
+    font-size: 2em;
+ }

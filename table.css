@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    border: 20px black;
+ }
+ 
+ th, td {
+    border: black 2px solid;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    vertical-align: top;
+ }
+
+ 
+ table col#daysWeek {
+    background-color: purple;
+    width: 200px;
+   
+ }
+ 
+ table col#hoursDay {
+    width: 100px;
+ }
+ 
+ table thead {
+    background-color: Gold;
+ }
+
+ body{
+    background-image: url(lakers.jpg);
+    background-size: cover;
+ }
